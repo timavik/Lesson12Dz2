@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson12Dz2/1.0.0": {
+        "runtime": {
+          "Lesson12Dz2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson12Dz2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
